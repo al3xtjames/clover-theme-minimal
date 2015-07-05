@@ -1,4 +1,4 @@
-# clover-minimal
+# Clover Minimal
 A clean theme for [the Clover UEFI bootloader](http://sourceforge.net/projects/cloverefiboot), based off [rEFInd-minimal by Evan Purkhiser](https://github.com/EvanPurkhiser/rEFInd-minimal).
 
 ![Screenshot of the theme](http://i.imgbox.com/4gssLdSI.png)
