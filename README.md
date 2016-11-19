@@ -12,12 +12,12 @@ Clone or download the ZIP of this repo to your Clover theme directory (usually i
 	<string>clover-minimal</string>
 </dict>
 ```
-By default, labels for the boot entries are hidden. If you would like to enable them, you can edit the theme.plist file in this repo by changing the `Banner` key to `true`.
+By default, labels for the boot entries are hidden. If you would like to enable them, you can edit the theme.plist file in this repo by changing the `Label` key to `true`.
 ```plist
 <key>Components</key>
 <dict>
 	<key>Banner</key>
-  <false/>
+	<false/>
 	<key>Functions</key>
 	<true/>
 	<key>Label</key>
