@@ -10,6 +10,8 @@
 	<dict>
 		<key>Background</key>
 		<dict>
+			<key>Dark</key>
+			<false/>
 			<key>Path</key>
 			<string>background.png</string>
 			<key>Type</key>
@@ -24,6 +26,21 @@
 			<key>Swap</key>
 			<true/>
 		</dict>
+		<key>Components</key>
+		<dict>
+			<key>Banner</key>
+			<false/>
+			<key>Functions</key>
+			<true/>
+			<key>Help</key>
+			<false/>
+			<key>Label</key>
+			<false/>
+			<key>MenuTitle</key>
+			<true/>
+			<key>Revision</key>
+			<false/>
+		</dict>
 		<key>Font</key>
 		<dict>
 			<key>CharWidth</key>
@@ -37,25 +54,12 @@
 		<dict>
 			<key>Big</key>
 			<string>selection_big.png</string>
-			<key>OnTop</key>
-			<false/>
 			<key>Color</key>
 			<string>0xFFFFFF80</string>
+			<key>OnTop</key>
+			<false/>
 			<key>Small</key>
 			<string>selection_small.png</string>
-		</dict>
-		<key>Components</key>
-		<dict>
-			<key>Banner</key>
-			<false/>
-			<key>Functions</key>
-			<true/>
-			<key>Label</key>
-			<false/>
-			<key>Revision</key>
-			<false/>
-			<key>MenuTitle</key>
-			<true/>
 		</dict>
 	</dict>
 	<key>Year</key>
