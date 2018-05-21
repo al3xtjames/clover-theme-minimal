@@ -35,7 +35,7 @@
 			<key>Help</key>
 			<false/>
 			<key>Label</key>
-			<false/>
+			<true/>
 			<key>MenuTitle</key>
 			<true/>
 			<key>Revision</key>
